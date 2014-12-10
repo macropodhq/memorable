@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/BugHerd/memorable/heroku"
+	"github.com/macropodhq/memorable/heroku"
 )
 
 func main() {

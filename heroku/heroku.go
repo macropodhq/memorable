@@ -3,7 +3,7 @@
 package heroku
 
 import (
-	"github.com/BugHerd/memorable"
+	"github.com/macropodhq/memorable"
 )
 
 func New(seed int64) *memorable.Generator {
